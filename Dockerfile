@@ -8,9 +8,7 @@ RUN apt-get install -y \
   clang-format \
   emacs-nox \
   g++ \
-  g++-multilib \
   g++-aarch64-linux-gnu \
-  gcc-multilib \
   gcc-aarch64-linux-gnu \
   gdb \
   git \
